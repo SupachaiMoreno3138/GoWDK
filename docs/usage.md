@@ -40,3 +40,4 @@ Notes and usage details for GoWDK.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
